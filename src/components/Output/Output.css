@@ -1,0 +1,18 @@
+.name{
+	display: flex;
+	margin-bottom: 20px;
+}
+.lastName{
+	margin-left:20px ;
+	margin-right: 20px;
+}
+.card{
+	border:3px solid yellowgreen;
+	display: flex;
+	margin-top: 20px;
+margin-bottom: 40px;
+}
+.imgg{
+	width: 10%;
+	margin-right: 30px;
+}
